@@ -7,6 +7,7 @@ metadata:
   annotations:
     flowsource/github-repo-owner: flowsource-demo
     flowsource/github-repo-name: full-stack-fastapi
+    flowsource/github-workflow: Git
     backstage.io/techdocs-ref: dir:.
   tags:
     - fastapi
@@ -15,3 +16,4 @@ spec:
   lifecycle: Development
   type: service
   owner: flowsource
+  system: flowsource-demo
