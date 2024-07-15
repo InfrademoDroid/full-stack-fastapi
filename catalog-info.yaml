@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fastapigithub
+  title: '@backstage-community/plugin-git-release-manager'
+  description: A Backstage plugin that helps you manage releases in git
+  annotations:
+    - flowsource/github-repo-owner: 
+    - flowsource/github-repo-name: 
+  tags:
+    - fastapi
+    - github
+spec:
+  lifecycle: Development
+  type: service
+  owner: flowsource
