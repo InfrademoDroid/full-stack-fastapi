@@ -233,6 +233,8 @@ This includes using Docker Compose, custom local domains, `.env` configurations,
 
 Check the file [release-notes.md](./release-notes.md).
 
+# Actions test
+
 ## License
 
 The Full Stack FastAPI Template is licensed under the terms of the MIT license.
