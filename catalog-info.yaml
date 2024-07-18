@@ -7,7 +7,7 @@ metadata:
   annotations:
     flowsource/github-repo-owner: flowsource-demo
     flowsource/github-repo-name: full-stack-fastapi
-    flowsource/github-workflows: Smokeshow
+    flowsource/github-workflows: "Deploy to Production", "Deploy to Staging", "Issue Manager", "Latest Changes", "Test", "Smokeshow"
     backstage.io/techdocs-ref: dir:.
   tags:
     - fastapi
